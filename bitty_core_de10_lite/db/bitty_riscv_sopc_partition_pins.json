@@ -1,0 +1,45 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "rst_out",
+					"strict" : false
+				},
+				{
+					"name" : "ledh_out[0]",
+					"strict" : false
+				},
+				{
+					"name" : "ledh_out[1]",
+					"strict" : false
+				},
+				{
+					"name" : "led_out[0]",
+					"strict" : false
+				},
+				{
+					"name" : "led_out[1]",
+					"strict" : false
+				},
+				{
+					"name" : "led_out[3]",
+					"strict" : false
+				},
+				{
+					"name" : "led_out[4]",
+					"strict" : false
+				},
+				{
+					"name" : "rst",
+					"strict" : false
+				},
+				{
+					"name" : "clk",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,76 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/work/Verimake/bitty_core_de10_lite/simulation/modelsim
+vbitty_riscv_sopc
+Z1 !s110 1590721934
+!i10b 1
+!s100 S^79jRA9bdnBMCC`=QbfK3
+IEUGXOH<8?dS75i`1h6c;Q0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1590721192
+Z4 8bitty_riscv_sopc.vo
+Z5 Fbitty_riscv_sopc.vo
+L0 31
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1590721931.000000
+Z8 !s107 bitty_riscv_sopc.vo|
+Z9 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+.|bitty_riscv_sopc.vo|
+!i113 1
+Z10 o-vlog01compat -work work
+Z11 !s92 -vlog01compat -work work +incdir+.
+Z12 tCvgOpt 0
+vbitty_riscv_sopc_tb
+R1
+!i10b 1
+!s100 IOZnkMm<]7R?mG5A0D@oi3
+IXYK@LeBJOJ0IXeLg`=KH31
+R2
+R0
+w1590669831
+8E:/work/Verimake/bitty_core_de10_lite/tb/bitty_riscv_sopc_tb.v
+FE:/work/Verimake/bitty_core_de10_lite/tb/bitty_riscv_sopc_tb.v
+L0 28
+R6
+r1
+!s85 0
+31
+!s108 1590721934.000000
+!s107 E:/work/Verimake/bitty_core_de10_lite/tb/bitty_riscv_sopc_tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/work/Verimake/bitty_core_de10_lite/tb|E:/work/Verimake/bitty_core_de10_lite/tb/bitty_riscv_sopc_tb.v|
+!i113 1
+R10
+!s92 -vlog01compat -work work +incdir+E:/work/Verimake/bitty_core_de10_lite/tb
+R12
+vhard_block
+R1
+!i10b 1
+!s100 Mgm0UEh_9]ZN[BF<c2]]e2
+IDOQYd0[CEFFiTL[kI4a371
+R2
+R0
+R3
+R4
+R5
+L0 829793
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12

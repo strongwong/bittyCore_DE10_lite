@@ -1,0 +1,18 @@
+Fitter Status : Successful - Fri May 29 11:47:27 2020
+Quartus Prime Version : 18.1.0 Build 625 09/12/2018 SJ Lite Edition
+Revision Name : bitty_riscv_sopc
+Top-level Entity Name : bitty_riscv_sopc
+Family : MAX 10
+Device : 10M50DAF484C7G
+Timing Models : Final
+Total logic elements : 25,172 / 49,760 ( 51 % )
+    Total combinational functions : 16,888 / 49,760 ( 34 % )
+    Dedicated logic registers : 18,170 / 49,760 ( 37 % )
+Total registers : 18170
+Total pins : 11 / 360 ( 3 % )
+Total virtual pins : 0
+Total memory bits : 32,768 / 1,677,312 ( 2 % )
+Embedded Multiplier 9-bit elements : 0 / 288 ( 0 % )
+Total PLLs : 0 / 4 ( 0 % )
+UFM blocks : 0 / 1 ( 0 % )
+ADC blocks : 0 / 2 ( 0 % )

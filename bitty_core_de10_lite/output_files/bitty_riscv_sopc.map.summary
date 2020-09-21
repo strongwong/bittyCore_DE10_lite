@@ -1,0 +1,16 @@
+Analysis & Synthesis Status : Successful - Fri May 29 11:44:38 2020
+Quartus Prime Version : 18.1.0 Build 625 09/12/2018 SJ Lite Edition
+Revision Name : bitty_riscv_sopc
+Top-level Entity Name : bitty_riscv_sopc
+Family : MAX 10
+Total logic elements : 34,536
+    Total combinational functions : 16,883
+    Dedicated logic registers : 18,170
+Total registers : 18170
+Total pins : 11
+Total virtual pins : 0
+Total memory bits : 32,768
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
+UFM blocks : 0
+ADC blocks : 0

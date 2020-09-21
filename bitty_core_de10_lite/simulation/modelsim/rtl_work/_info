@@ -1,0 +1,428 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/work/Verimake/bitty_core_de10_lite/simulation/modelsim
+vbitty_inst_rom
+Z1 !s110 1590720912
+!i10b 1
+!s100 knad8ia_ziKKk?7LkUWLk3
+IY3kP6gEU`1Q`MTl1SXle30
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1590039575
+8E:/work/Verimake/bitty_core_de10_lite/bitty_inst_rom.v
+FE:/work/Verimake/bitty_core_de10_lite/bitty_inst_rom.v
+Z3 L0 39
+Z4 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z5 !s108 1590720912.000000
+!s107 E:/work/Verimake/bitty_core_de10_lite/bitty_inst_rom.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/work/Verimake/bitty_core_de10_lite|E:/work/Verimake/bitty_core_de10_lite/bitty_inst_rom.v|
+!i113 1
+Z6 o-vlog01compat -work work
+Z7 !s92 -vlog01compat -work work +incdir+E:/work/Verimake/bitty_core_de10_lite
+Z8 tCvgOpt 0
+vbitty_inst_rom1
+R1
+!i10b 1
+!s100 6icJdY52n@^Vzj8eB>GRb0
+I@h4ckLG@35BS0A4=e=hNU3
+R2
+R0
+w1590039651
+8E:/work/Verimake/bitty_core_de10_lite/bitty_inst_rom1.v
+FE:/work/Verimake/bitty_core_de10_lite/bitty_inst_rom1.v
+R3
+R4
+r1
+!s85 0
+31
+R5
+!s107 E:/work/Verimake/bitty_core_de10_lite/bitty_inst_rom1.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/work/Verimake/bitty_core_de10_lite|E:/work/Verimake/bitty_core_de10_lite/bitty_inst_rom1.v|
+!i113 1
+R6
+R7
+R8
+vbitty_inst_rom2
+R1
+!i10b 1
+!s100 D`D]W4mcl7;mR]QC4^IJW2
+IhkN2_D_J@1I`U0C[W;PLQ1
+R2
+R0
+w1590039704
+8E:/work/Verimake/bitty_core_de10_lite/bitty_inst_rom2.v
+FE:/work/Verimake/bitty_core_de10_lite/bitty_inst_rom2.v
+R3
+R4
+r1
+!s85 0
+31
+R5
+!s107 E:/work/Verimake/bitty_core_de10_lite/bitty_inst_rom2.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/work/Verimake/bitty_core_de10_lite|E:/work/Verimake/bitty_core_de10_lite/bitty_inst_rom2.v|
+!i113 1
+R6
+R7
+R8
+vbitty_inst_rom3
+R1
+!i10b 1
+!s100 U3=oa>LHaQBXmU^:S3ULh0
+IcDj:^6[SR9BM04C`4Sj=b2
+R2
+R0
+w1590039732
+8E:/work/Verimake/bitty_core_de10_lite/bitty_inst_rom3.v
+FE:/work/Verimake/bitty_core_de10_lite/bitty_inst_rom3.v
+R3
+R4
+r1
+!s85 0
+31
+R5
+!s107 E:/work/Verimake/bitty_core_de10_lite/bitty_inst_rom3.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/work/Verimake/bitty_core_de10_lite|E:/work/Verimake/bitty_core_de10_lite/bitty_inst_rom3.v|
+!i113 1
+R6
+R7
+R8
+vbitty_riscv
+Z9 !s110 1590720914
+!i10b 1
+!s100 eJikMz^2a9aQijZfV_TMA1
+Ik;?lgJ:XiZG]aW`GWMbY`2
+R2
+R0
+w1590669441
+8E:/work/Verimake/bitty_core_de10_lite/core/bitty_riscv.v
+FE:/work/Verimake/bitty_core_de10_lite/core/bitty_riscv.v
+Z10 L0 28
+R4
+r1
+!s85 0
+31
+Z11 !s108 1590720914.000000
+!s107 E:/work/Verimake/bitty_core_de10_lite/core/bitty_defs.v|E:/work/Verimake/bitty_core_de10_lite/core/bitty_riscv.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/work/Verimake/bitty_core_de10_lite/core|E:/work/Verimake/bitty_core_de10_lite/core/bitty_riscv.v|
+!i113 1
+R6
+Z12 !s92 -vlog01compat -work work +incdir+E:/work/Verimake/bitty_core_de10_lite/core
+R8
+vbitty_riscv_sopc
+R9
+!i10b 1
+!s100 RhBhGb<=cGRFC2^B7AjDe2
+I9`Rbef<iFmQCBP[XeQD[^1
+R2
+R0
+w1590720539
+8E:/work/Verimake/bitty_core_de10_lite/core/bitty_riscv_sopc.v
+FE:/work/Verimake/bitty_core_de10_lite/core/bitty_riscv_sopc.v
+R10
+R4
+r1
+!s85 0
+31
+R11
+!s107 E:/work/Verimake/bitty_core_de10_lite/core/bitty_defs.v|E:/work/Verimake/bitty_core_de10_lite/core/bitty_riscv_sopc.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/work/Verimake/bitty_core_de10_lite/core|E:/work/Verimake/bitty_core_de10_lite/core/bitty_riscv_sopc.v|
+!i113 1
+R6
+R12
+R8
+vbitty_riscv_sopc_tb
+R9
+!i10b 1
+!s100 IOZnkMm<]7R?mG5A0D@oi3
+IXYK@LeBJOJ0IXeLg`=KH31
+R2
+R0
+w1590669831
+8E:/work/Verimake/bitty_core_de10_lite/tb/bitty_riscv_sopc_tb.v
+FE:/work/Verimake/bitty_core_de10_lite/tb/bitty_riscv_sopc_tb.v
+R10
+R4
+r1
+!s85 0
+31
+R11
+!s107 E:/work/Verimake/bitty_core_de10_lite/tb/bitty_riscv_sopc_tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/work/Verimake/bitty_core_de10_lite/tb|E:/work/Verimake/bitty_core_de10_lite/tb/bitty_riscv_sopc_tb.v|
+!i113 1
+R6
+!s92 -vlog01compat -work work +incdir+E:/work/Verimake/bitty_core_de10_lite/tb
+R8
+vcsr_reg
+R9
+!i10b 1
+!s100 Ij=eEUL7fLOhX?=1h;@6]2
+IJ0k92K`]fO[=1b>2]lCZ]0
+R2
+R0
+w1590202827
+8E:/work/Verimake/bitty_core_de10_lite/core/csr_reg.v
+FE:/work/Verimake/bitty_core_de10_lite/core/csr_reg.v
+R10
+R4
+r1
+!s85 0
+31
+R11
+!s107 E:/work/Verimake/bitty_core_de10_lite/core/bitty_defs.v|E:/work/Verimake/bitty_core_de10_lite/core/csr_reg.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/work/Verimake/bitty_core_de10_lite/core|E:/work/Verimake/bitty_core_de10_lite/core/csr_reg.v|
+!i113 1
+R6
+R12
+R8
+vctrl
+R9
+!i10b 1
+!s100 l^bRJ<L:VkBLS[@R9Yj2;3
+I8b]oJzHGHE@dED0kXgT8W0
+R2
+R0
+w1588833443
+8E:/work/Verimake/bitty_core_de10_lite/core/ctrl.v
+FE:/work/Verimake/bitty_core_de10_lite/core/ctrl.v
+R10
+R4
+r1
+!s85 0
+31
+R11
+!s107 E:/work/Verimake/bitty_core_de10_lite/core/bitty_defs.v|E:/work/Verimake/bitty_core_de10_lite/core/ctrl.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/work/Verimake/bitty_core_de10_lite/core|E:/work/Verimake/bitty_core_de10_lite/core/ctrl.v|
+!i113 1
+R6
+R12
+R8
+vdata_ram
+R9
+!i10b 1
+!s100 H`HY@o:875;Y1z2iahA=B0
+IC]Q3Z4>k8TemeXIUm4hW?3
+R2
+R0
+w1590039678
+8E:/work/Verimake/bitty_core_de10_lite/core/data_ram.v
+FE:/work/Verimake/bitty_core_de10_lite/core/data_ram.v
+R10
+R4
+r1
+!s85 0
+31
+Z13 !s108 1590720913.000000
+!s107 E:/work/Verimake/bitty_core_de10_lite/core/bitty_defs.v|E:/work/Verimake/bitty_core_de10_lite/core/data_ram.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/work/Verimake/bitty_core_de10_lite/core|E:/work/Verimake/bitty_core_de10_lite/core/data_ram.v|
+!i113 1
+R6
+R12
+R8
+vex
+Z14 !s110 1590720913
+!i10b 1
+!s100 <;NB4IR[P>>g3gGH6Kom_3
+ISIa7HTlaP?PE^nEo`F]OR1
+R2
+R0
+w1590588378
+8E:/work/Verimake/bitty_core_de10_lite/core/ex.v
+FE:/work/Verimake/bitty_core_de10_lite/core/ex.v
+R10
+R4
+r1
+!s85 0
+31
+R13
+!s107 E:/work/Verimake/bitty_core_de10_lite/core/bitty_defs.v|E:/work/Verimake/bitty_core_de10_lite/core/ex.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/work/Verimake/bitty_core_de10_lite/core|E:/work/Verimake/bitty_core_de10_lite/core/ex.v|
+!i113 1
+R6
+R12
+R8
+vex_mem
+R14
+!i10b 1
+!s100 lACm3;Y;<;LC7mW95dVQD3
+I9g[M_Jk1zzlN9e6:EKYo62
+R2
+R0
+w1590203078
+8E:/work/Verimake/bitty_core_de10_lite/core/ex_mem.v
+FE:/work/Verimake/bitty_core_de10_lite/core/ex_mem.v
+R10
+R4
+r1
+!s85 0
+31
+R13
+!s107 E:/work/Verimake/bitty_core_de10_lite/core/bitty_defs.v|E:/work/Verimake/bitty_core_de10_lite/core/ex_mem.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/work/Verimake/bitty_core_de10_lite/core|E:/work/Verimake/bitty_core_de10_lite/core/ex_mem.v|
+!i113 1
+R6
+R12
+R8
+vid
+R14
+!i10b 1
+!s100 >BNjSHTOfE:BEUX4N:FAo2
+Im<5L8[2ckDX:ji8Z=E`ND2
+R2
+R0
+w1590671892
+8E:/work/Verimake/bitty_core_de10_lite/core/id.v
+FE:/work/Verimake/bitty_core_de10_lite/core/id.v
+R10
+R4
+r1
+!s85 0
+31
+R13
+!s107 E:/work/Verimake/bitty_core_de10_lite/core/bitty_defs.v|E:/work/Verimake/bitty_core_de10_lite/core/id.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/work/Verimake/bitty_core_de10_lite/core|E:/work/Verimake/bitty_core_de10_lite/core/id.v|
+!i113 1
+R6
+R12
+R8
+vid_ex
+R14
+!i10b 1
+!s100 QaIX_6oiVgmEe[BzHfKcE0
+I;oe6?=^XESbS@Ab_3a_ff0
+R2
+R0
+w1590675028
+8E:/work/Verimake/bitty_core_de10_lite/core/id_ex.v
+FE:/work/Verimake/bitty_core_de10_lite/core/id_ex.v
+R10
+R4
+r1
+!s85 0
+31
+R13
+!s107 E:/work/Verimake/bitty_core_de10_lite/core/bitty_defs.v|E:/work/Verimake/bitty_core_de10_lite/core/id_ex.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/work/Verimake/bitty_core_de10_lite/core|E:/work/Verimake/bitty_core_de10_lite/core/id_ex.v|
+!i113 1
+R6
+R12
+R8
+vif_id
+R14
+!i10b 1
+!s100 EZjlI:Lh311@Zz:252LId3
+IBX>SX>Pk]E4a=f;Em:=EN1
+R2
+R0
+w1590590064
+8E:/work/Verimake/bitty_core_de10_lite/core/if_id.v
+FE:/work/Verimake/bitty_core_de10_lite/core/if_id.v
+R10
+R4
+r1
+!s85 0
+31
+R13
+!s107 E:/work/Verimake/bitty_core_de10_lite/core/bitty_defs.v|E:/work/Verimake/bitty_core_de10_lite/core/if_id.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/work/Verimake/bitty_core_de10_lite/core|E:/work/Verimake/bitty_core_de10_lite/core/if_id.v|
+!i113 1
+R6
+R12
+R8
+vmem
+R14
+!i10b 1
+!s100 bQYF=fD8QNTAX[<@]CMP40
+I8G>j2c^k`<:1Amk@;f::22
+R2
+R0
+w1590587699
+8E:/work/Verimake/bitty_core_de10_lite/core/mem.v
+FE:/work/Verimake/bitty_core_de10_lite/core/mem.v
+R10
+R4
+r1
+!s85 0
+31
+R13
+!s107 E:/work/Verimake/bitty_core_de10_lite/core/bitty_defs.v|E:/work/Verimake/bitty_core_de10_lite/core/mem.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/work/Verimake/bitty_core_de10_lite/core|E:/work/Verimake/bitty_core_de10_lite/core/mem.v|
+!i113 1
+R6
+R12
+R8
+vmem_wb
+R14
+!i10b 1
+!s100 fz`d=k>45nh`FVN[nhOQU3
+I_ehG7P4o9ZCYmP]>d2VY^2
+R2
+R0
+w1590201878
+8E:/work/Verimake/bitty_core_de10_lite/core/mem_wb.v
+FE:/work/Verimake/bitty_core_de10_lite/core/mem_wb.v
+R10
+R4
+r1
+!s85 0
+31
+R13
+!s107 E:/work/Verimake/bitty_core_de10_lite/core/bitty_defs.v|E:/work/Verimake/bitty_core_de10_lite/core/mem_wb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/work/Verimake/bitty_core_de10_lite/core|E:/work/Verimake/bitty_core_de10_lite/core/mem_wb.v|
+!i113 1
+R6
+R12
+R8
+vpc_reg
+R14
+!i10b 1
+!s100 hbM1VbOAUfX8h``z3<8Lo2
+Ig19Pa7cNoe;LT1kPFeR_M0
+R2
+R0
+w1590720858
+8E:/work/Verimake/bitty_core_de10_lite/core/pc_reg.v
+FE:/work/Verimake/bitty_core_de10_lite/core/pc_reg.v
+R10
+R4
+r1
+!s85 0
+31
+R13
+!s107 E:/work/Verimake/bitty_core_de10_lite/core/bitty_defs.v|E:/work/Verimake/bitty_core_de10_lite/core/pc_reg.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/work/Verimake/bitty_core_de10_lite/core|E:/work/Verimake/bitty_core_de10_lite/core/pc_reg.v|
+!i113 1
+R6
+R12
+R8
+vregsfile
+R1
+!i10b 1
+!s100 :EJ0;n6PUdP9O4@oW51MQ0
+IZiDWK^B:faNEWi>Y3mHF03
+R2
+R0
+w1590669481
+8E:/work/Verimake/bitty_core_de10_lite/core/regsfile.v
+FE:/work/Verimake/bitty_core_de10_lite/core/regsfile.v
+R10
+R4
+r1
+!s85 0
+31
+R5
+!s107 E:/work/Verimake/bitty_core_de10_lite/core/bitty_defs.v|E:/work/Verimake/bitty_core_de10_lite/core/regsfile.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/work/Verimake/bitty_core_de10_lite/core|E:/work/Verimake/bitty_core_de10_lite/core/regsfile.v|
+!i113 1
+R6
+R12
+R8
